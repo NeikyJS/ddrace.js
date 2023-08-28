@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "name": "ddrace.js",
+  "version": "1.0.0",
+  "description": "Package for interact with DDNet API",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeikyJS/ddrace.js.git"
+  },
+  "author": "neiky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeikyJS/ddrace.js/issues"
+  },
+  "homepage": "https://github.com/NeikyJS/ddrace.js#readme"
+}
